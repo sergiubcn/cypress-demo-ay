@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://en.aboutyou.de/",
+    "integrationFolder": "tests/pageComponentObjectDesign",
+    "pluginsFile": "tests/plugins",
+    "screenshotsFolder": "tests/screenshots",
+    "supportFile": "tests/support",
+    "testFiles": "specs/*.spec.ts",
+    "videosFolder": "tests/videos"
+}
